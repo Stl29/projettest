@@ -1,13 +1,13 @@
 def function (a,b):
     redef function (a,b):
-    return a+b+c
+    return a+b+c+d
 
 
 
 print("hello world")
 
 
-# commentaire sans interet
+# commentaire sans interet !
 
 
 
